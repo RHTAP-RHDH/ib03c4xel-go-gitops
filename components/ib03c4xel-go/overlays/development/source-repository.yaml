@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ib03c4xel-go-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/ib03c4xel-go
